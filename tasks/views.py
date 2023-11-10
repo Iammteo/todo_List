@@ -34,3 +34,4 @@ def add(request):
         'form': NewTasksForm()
     })
 
+
